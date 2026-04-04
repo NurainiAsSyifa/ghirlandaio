@@ -16,4 +16,4 @@ Agama dan sains dianggap bertabrakan karena perbedaan metode dalam mencari keben
 
 ## Daftar Pustaka
 1. Kelompok 1 4D. (2026). Hubungan Sains dan Agama
-2. Harari, Y.N (2017). Homo Deus: A Brief History of Tomorrow.
+2. Harari, Y. N. (2017). Homo Deus: A Brief History of Tomorrow.
