@@ -21,3 +21,5 @@ Saya kontra dengan closed source karena walaupun closed source punya sisi baik, 
 
 ## Referensi
 https://teknik-informatika-s1.stekom.ac.id/artikel/closed-source#:~:text=Close%20source%20adalah%20software%20yang,entah%20dengan%20gratis%20maupun%20membayar.
+
+<img width="642" height="622" alt="image" src="https://github.com/user-attachments/assets/46d48f7f-570e-4755-bd70-82ff750c39ca" />
