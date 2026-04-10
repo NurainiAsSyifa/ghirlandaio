@@ -12,6 +12,7 @@ Software closed source adalah jenis software yabg tidak memberikan akses kepada 
 Perbedaan antara software open source dan closed source terletak pada keterbukaan kode sumbernya. Open source memiliki kode yang terbuka sehingga dapat diakses dan dimodifikasi penggunanya. Closed source bersifat tertutup dan hanya dapat diakses sesuai dengan aturan pengembang yang mengembangkannya. Dari segi biaya, open source biasanya gratis, sementara closed source berbayar, selain itu open source juga dikembangkan oleh komunitas dan dikembangkan tergantung dengan kebutuhannya sedangkan closed source di kendalikan dan dikembangkan oleh pribadi, biasanya perusahaan. Adapun contoh dari open source yaitu ada Linux, Apache HTTP Server, dan MySQL dan dari closed source ada Microsoft Office, Adobe Photoshop, dan AutoCAD.
 
 ### Kesimpulan
+Software merupakan bagian penting dalam sistem komputer yang berfungsi sebagai penggerak berbagai aktivitas melalui kode program. Perkembangan software menghasilkan dua jenis yaitu open source dan closed source, yang dapat dibedakan berdasarkan keterbukaan sumbernya. Open source memberikan kebebasan kepada pengguna untuk mengakses, memodifikasi, dan mengembangkan software secara luas, bebas dan biasanya didukung oleh komunitas yang aktif, sedangkan closed source memiliki kode sumber yang tertutup dan seluruh pengembangnya dikendalikan oleh pribadi. Perbedaan ini juga berdampak pada aspek biaya, fleksibilitas, serta pengelolaan software.
 
 ## Daftar Pustaka 
 Open Source vs Closed Source: Memahami Perbedaan Kelebihan Kekurangan dan Contohnya
