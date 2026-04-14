@@ -2,15 +2,15 @@
 Makalah ini disusun untuk memenuhi tugas mata kuliah Perpustakaan dan Arsip Digital
 
 
-*Dosen Pengampu :*
+### *Dosen Pengampu :*
 Al Muhdil Karim, S.IP, M.Hum.
 
-*Disusun oleh Kelompok 4 :*
+### *Disusun oleh Kelompok 4 :*
 1.	Lydian Salwa Hananihasna (12402051030030)
 2.	Virda Nakhi  (12402051050109)
 Kelas 4A
 
-*PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026*
+### *PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026*
 
 ### *Kata Pengantar*
 Assalamu’alaikum Warahmatullahi Wabarakatuh, Segala puji dan syukur kita panjatkan kepada Allah SWT serta shalawat dan salam kami sampaikan kepada tokoh dan teladan kita Nabi Muhammad SAW. Diantara sekian banyak nikmat Allah SWT yang membawa kita dari kegelapan ke dimensi terang yang memberi hikmah dan yang paling bermanfaat bagi seluruh umat manusia, sehingga oleh karenanya kami dapat menyelesaikan tugas Perpustakaan Digital ini dengan baik dan tepat waktu.
